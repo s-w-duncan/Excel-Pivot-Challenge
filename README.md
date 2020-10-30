@@ -1,2 +1,3 @@
-# Homework1
-Excel Homework
+# GoFundMe Success Stories
+
+Analyzing results of funding projects through Microsoft Excel Pivot Tables. 
